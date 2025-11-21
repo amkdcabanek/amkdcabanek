@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albert</h1>
-<h3 align="center">I am a motivated and ambitious Electronics student with a strong passion for software
+<h3 align="center">I am a motivated and ambitious Electronics Engineer with a strong passion for software
 development. Known for excellent problem-solving skills, creativity, keen eye for detail
-with outstanding communication and teamwork abilities. I consistently achieve
-academic excellence, driven to contribute to innovative projects and grow within the
+with outstanding communication and teamwork abilities. I am driven to contribute to innovative projects and grow within the
 software development community.</h3>
 
 <h3 align="center">Connect with me:</h3>
